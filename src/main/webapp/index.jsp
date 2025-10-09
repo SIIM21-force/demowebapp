@@ -13,7 +13,7 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome to Vardhan and Samarth on behalf of DevOps Academy</h2>
       
-<center><img src="https://tomcat.apache.org/res/images/tomcat.png" width=129px height=92px>
+<center><img src="https://www.apache.org/logos/res/tomcat/default.png" width=720px height=510px>
  </center> </div>
 </body>
 </html>
